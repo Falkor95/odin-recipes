@@ -23,4 +23,14 @@ ul{
     text-align: center;
     margin-left: 150px;
     margin-right: 150px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
+
+.recipe-card {
+    border: 10px solid darkgoldenrod;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 24px;
+    padding-bottom: 24px;
 }
