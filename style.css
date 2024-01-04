@@ -29,8 +29,8 @@ ul{
 
 .recipe-card {
     border: 10px solid darkgoldenrod;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 24px;
-    padding-bottom: 24px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    padding-bottom: 50px;
 }
