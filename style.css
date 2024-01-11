@@ -5,7 +5,22 @@ body{
     background-color: antiquewhite;
 }
 
+ul li a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    list-style: none;
+}
+
 .header{
     display: flex;
     justify-content:center ;
 }
+
+.recipe-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
