@@ -5,3 +5,7 @@ body{
     background-color: antiquewhite;
 }
 
+.header{
+    display: flex;
+    justify-content:center ;
+}
