@@ -18,22 +18,28 @@ ul li a{
     flex-direction: column;
     text-decoration: none;
     color: black;
-    list-style: none;
 }
 
 .header{
     display: flex;
     justify-content:center ;
-}
+    background-color: grey;
+    border-radius: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    }
 
 .recipe-links{
     display: flex;
     justify-content: center;
     align-items: center;
+    list-style-type: none;
 }
 
-.footer{
+.footer p{
     display: flex;
     flex-direction: column;
-    margin-bottom: 0;
+    background-color: grey;
+    margin: auto;
+
 }
