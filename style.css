@@ -6,6 +6,8 @@ body{
     background-color: antiquewhite;
     min-height: 100vh;
     margin: 0;
+    border: 20px solid black;
+    padding: 20px;
 }
 
 main{
