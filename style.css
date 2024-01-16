@@ -5,11 +5,15 @@ body{
     min-height: 100vh;
     margin: 0;
     border: 20px solid black;
+    justify-content: center;
 }
 
 main{
     display: flex;
     flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
 }
 
 ul li a{
@@ -23,10 +27,11 @@ ul li a{
 
 .header{
     display: flex;
-    justify-content:center ;
+    flex-direction: column;
+    text-align: center;
     background-color: grey;
     border-radius: 25px;
-    margin-top: 55px;
+    margin-top: 5px;
     margin-bottom: 25px;
     }
 
@@ -42,5 +47,5 @@ ul li a{
     flex: 1;
     background-color: grey;
     margin: 0;
-
+    text-align: center;
 }
